@@ -1,2 +1,10 @@
 это текстовый документ, мы тут печатаем буквы
 
+<<<<<<< Updated upstream
+=======
+
+new text about some changes
+
+
+seichas dve verhmie strochki koda propadut (puffff)
+>>>>>>> Stashed changes
