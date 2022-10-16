@@ -2,3 +2,5 @@
 
 пишу тут текст для проверки правильности разделения веток.
 eshe raz pomenyl tekst
+
+seichas dve verhmie strochki koda propadut (puffff)
