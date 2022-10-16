@@ -4,6 +4,6 @@ def projectIsland():
   print('Кажется всех съели')
 text = input('Какое животное живет на дереве и ест бананы?')
 
-if text == 'обезъяна' or text == 'обезъяны':
+if text == 'кошка' or text == 'кот':
   projectIsland()
   
